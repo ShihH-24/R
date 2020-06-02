@@ -1,0 +1,128 @@
+---
+title: "Graphics and Statistics for cardiology - PartII"
+author: "Shih-Hsin Liang"
+date: "2020/6/1"
+output:
+  xaringan::moon_reader:
+    css: [default, zh-CN.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+ 
+### Categorical versus categorical
+
+![](P12.png)
+
+
+---
+### Categorical versus categorical
+
+![](P11.png)
+
+
+
+---
+### Categorical versus continuous
+### Two categories
+![](P10.png)
+
+
+
+
+
+
+
+
+
+
+---
+### Categorical versus continuous-Delta_QTc
+
+![](P9.png)
+
+
+
+
+
+---
+
+### Categorical versus continuous
+### ns ()
+![](P8.png)
+
+
+
+
+
+
+---
+
+### Categorical versus continuous-Delta_QTc
+![](P7.png)
+
+
+
+
+---
+
+### Categorical versus continuous
+#### more than 2Catories
+
+
+![](P6.png)
+
+
+
+
+---
+
+### Categorical versus continuous
+
+![](P5.png)
+
+
+
+---
+
+### Categorical versus continuous-Delta_QTc dataset
+
+![](P4.png)
+
+
+
+---
+
+### Categorical versus continuousl-Delta_QTc dataset
+
+![](P3.png)
+
+
+
+
+---
+
+### Graphs illustrating more than two variables
+![](P2.png)
+
+
+
+
+
+---
+
+### Graphs illustrating more than two variables-Delta_QTc dataset
+![](P1.png)
+
+---
+
+
+
+
+
